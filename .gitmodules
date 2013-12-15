@@ -1,0 +1,3 @@
+[submodule "kernel_source"]
+	path = kernel_source
+	url = git@github.com:TeamYogaBlade/lenovo_b6000-8000_kernel_source.git
